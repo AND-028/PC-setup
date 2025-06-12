@@ -1,5 +1,4 @@
-# PC setup for research 
-
+# 研究のためのPCセットアップ
 
 ## OS:RockyLinux9.0のインストール
 ### ISOイメージのダウンロード
